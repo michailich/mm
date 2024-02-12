@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+main {
+    text-align: center;
+}
+p {
+   border-radius: 10px;
+   border:10px solid black;
+}
+img {
+    border: 10px dashed black;
+}
+.w {
+   border: 10px solid black;
+}
+.e {
+  border: 10px solid black; 
+}
